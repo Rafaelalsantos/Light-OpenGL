@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+r:\documentos\git\projetos\learnopengl\light\lighting02\lighting\src\main.cpp(18): warning C4005: '_CRT_SECURE_NO_DEPRECATE': redefinição de macro
+  r:\documentos\git\projetos\learnopengl\light\lighting02\lighting\src\main.cpp: note: consulte a definição anterior de '_CRT_SECURE_NO_DEPRECATE'
+r:\documentos\git\projetos\learnopengl\light\lighting02\lighting\hdr\camera.h(29): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+r:\documentos\git\projetos\learnopengl\light\lighting02\lighting\hdr\camera.h(30): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+r:\documentos\git\projetos\learnopengl\light\lighting02\lighting\src\main.cpp(264): warning C4838: a conversão de 'FT_Pos' em 'GLuint' requer uma conversão de restrição
+  Lighting.vcxproj -> R:\Documentos\GIT\projetos\LearnOpenGL\Light\Lighting02\bin\Debug-x64\Lighting\Lighting.exe
